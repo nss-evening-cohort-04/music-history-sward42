@@ -1,0 +1,32 @@
+.top  ul li {
+	display: inline-block;
+	list-style-type: none;
+	font-size: 1.5em;
+}
+
+.top {
+	background-color: #FFB4B0;
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
+
+.left {
+	background-color: #4DD7FA;
+	border: 2px solid black;
+	width: 25%;
+	float: left;
+	padding: 10px;
+	font-size:  1.5em;
+
+}
+
+label {
+	display: block;
+	margin-top: 20px;
+
+}
+
+.genre-box {
+	column-count: 2;
+}
+
