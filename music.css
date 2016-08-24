@@ -1,0 +1,54 @@
+.top  ul li {
+	display: inline-block;
+	list-style-type: none;
+	font-size: 1.5em;
+}
+
+.top {
+	background-color: #FFB4B0;
+	border: 2px solid black;
+	margin: 10px 2.5%;
+}
+
+.left {
+	background-color: #4DD7FA;
+	border: 2px solid black;
+	width: 25%;
+	float: left;
+	padding: 10px;
+	font-size:  1.5em;
+	margin-left: 2.5%;
+
+}
+
+.right {
+	background-color: #FEFAC0;
+	border: 2px solid black;
+	width: 65%;
+	float: right;
+	padding: 10px;
+	font-size: 1.5em;
+	margin-right: 2.5%;
+}
+
+label {
+	display: block;
+	margin-top: 20px;
+
+}
+
+.genre-box {
+	column-count: 2;
+}
+
+.right h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.filter {
+	width: 60%;
+	height: 30px;
+	margin: 10px auto;
+}
+
